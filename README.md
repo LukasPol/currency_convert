@@ -1,5 +1,7 @@
 # currency_converter
 
+<img src="https://github.com/LukasPol/currency_convert/blob/screenshots/currency_convert.gif" width="350" height="500"/>
+
 Um conversor de moeda na palma da mão, sem precisar ir no google, inicialmente só tem Reais(BRL), Dolar(USD) e Euro(EUR). Ainda desejo postar na Play Store.
 
 ## Como contribuir
