@@ -1,16 +1,24 @@
 # currency_converter
 
-A new Flutter project.
+Um conversor de moeda na palma da mão, sem precisar ir no google, inicialmente só tem Reais(BRL), Dolar(USD) e Euro(EUR). Ainda desejo postar na Play Store.
 
-## Getting Started
+## Como contribuir
 
-This project is a starting point for a Flutter application.
+1. Abra uma issue
 
-A few resources to get you started if this is your first Flutter project:
+Nessa issue relate a melhoria que deseja realizar, e o porque.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Faça o fork
+2. Clone
+```
+https://github.com/USER/currency_convert.git
+```
+3. Cria uma branch
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Deve conter o número da issue e uma breve descrição sobre ela.
+
+```
+git checkout -b feature/<num issue>-<desc issue>
+```
+
+4. Realize um PR e seja feliz.
